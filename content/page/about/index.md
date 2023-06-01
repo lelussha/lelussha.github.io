@@ -1,6 +1,6 @@
 ---
 title: About
-description: Chi sono
+description:
 date: '2023-05-28'
 aliases:
   - about-us
