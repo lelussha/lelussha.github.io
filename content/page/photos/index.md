@@ -8,7 +8,7 @@ license:
 lastmod: '2020-10-09'
 menu:
     main: 
-        weight: 10
+        weight: -90
         params:
             icon: gallery
 ---
